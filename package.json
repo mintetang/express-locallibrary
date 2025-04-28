@@ -8,7 +8,7 @@
     "serverstart": "SET DEBUG=locallibrary:* & npm run devstart"
   },
     "engines": {
-    "node": ">=22.14.0"
+    "node": ">=v16"
   },
   "dependencies": {
     "compression": "^1.8.0",
